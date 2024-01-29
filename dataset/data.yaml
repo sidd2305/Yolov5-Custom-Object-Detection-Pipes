@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Bevel', 'clean']
+
+roboflow:
+  workspace: class-t2mk4
+  project: annotated-pipes
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/class-t2mk4/annotated-pipes/dataset/1
