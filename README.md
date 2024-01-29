@@ -22,12 +22,13 @@ Feel free to utilize these resources in your experiments, applications, or furth
 
 We provide sample output screenshots showcasing the performance of our custom pipe detection model. These screenshots demonstrate the model's ability to accurately locate and classify pipes within images. You can find the screenshots in the output directory.
 
-![](/Output%20Images/3.jpeg)
 ![](/Output%20Images/5.jpeg)
+![](/Output%20Images/3.jpeg)
+
 
 ### Training Metrics
 During the training process, various metrics are tracked to assess the model's performance and convergence. These metrics include loss values, precision, recall, and mean average precision (mAP). We provide detailed training metrics and visualization tools to analyze the training progress and identify areas for improvement.
-![](/Output%20Images/training metrics.jpeg)
+![](/Output%20Images/training metrcis.jpeg)
 
 ### Confusion Matrix
 The confusion matrix is a valuable tool for evaluating the model's classification performance. It provides insights into the model's ability to correctly classify pipes and distinguish them from other objects or background elements. We generate and analyze the confusion matrix to assess the model's accuracy and identify any patterns or misclassifications.
