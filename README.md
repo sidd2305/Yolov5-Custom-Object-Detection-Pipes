@@ -28,7 +28,9 @@ We provide sample output screenshots showcasing the performance of our custom pi
 
 ### Training Metrics
 During the training process, various metrics are tracked to assess the model's performance and convergence. These metrics include loss values, precision, recall, and mean average precision (mAP). We provide detailed training metrics and visualization tools to analyze the training progress and identify areas for improvement.
+
 ![](/Output%20Images/train.jpeg)
+
 
 ### Confusion Matrix
 The confusion matrix is a valuable tool for evaluating the model's classification performance. It provides insights into the model's ability to correctly classify pipes and distinguish them from other objects or background elements. We generate and analyze the confusion matrix to assess the model's accuracy and identify any patterns or misclassifications.
