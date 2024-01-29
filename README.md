@@ -21,7 +21,7 @@ Output Screenshots
 
 We provide sample output screenshots showcasing the performance of our custom pipe detection model. These screenshots demonstrate the model's ability to accurately locate and classify pipes within images. You can find the screenshots in the output directory.
 
-![Image 1](Output Images/3.jpeg)
+![Image 1](/Output%20Images/3.jpeg)
 ![asd](Output Images/5.jpeg)
 
 ## Training Metrics
