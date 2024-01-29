@@ -4,6 +4,18 @@ Welcome to our custom object detection project for pipes using YOLOv5! This repo
 ## YOLOv5 Overview
 YOLOv5 is a state-of-the-art deep learning model for object detection tasks. It stands for "You Only Look Once," emphasizing its ability to detect objects in images in real-time with remarkable accuracy. YOLOv5 achieves this by dividing the input image into a grid and predicting bounding boxes and class probabilities for each grid cell. With its streamlined architecture and efficient inference, YOLOv5 is well-suited for a wide range of object detection applications, including our custom pipe detection task.
 
+## Additional Resources
+
+In addition to the source code and documentation, we have included the following resources to assist you:
+
+- **best.pt Weights**: We provide the `best.pt` weights file for the trained YOLOv5 model. These weights represent the optimal parameters learned during the training process and can be used for inference on pipe detection tasks.
+
+- **COCO YAML**: We include the COCO YAML file, which contains the configuration settings used for training the YOLOv5 model. You can use this YAML file to reproduce our training setup or customize the model architecture for your specific requirements.
+
+- **Dataset**: We obtained our dataset from-https://universe.roboflow.com/yolov5-0f27k/yolo-v5-pipe-field
+
+Feel free to utilize these resources in your experiments, applications, or further development efforts. If you have any questions or encounter any issues, please refer to the documentation or reach out to us for assistance.
+
 ## Output Screenshots, Training Metrics, and Confusion Matrix
 Output Screenshots
 
