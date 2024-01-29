@@ -21,8 +21,8 @@ Output Screenshots
 
 We provide sample output screenshots showcasing the performance of our custom pipe detection model. These screenshots demonstrate the model's ability to accurately locate and classify pipes within images. You can find the screenshots in the output directory.
 
-![](/Output Images/4.jpeg)
-![](Output Images/5.jpeg)
+![asd](/Output Images/4.jpeg)
+![asd](Output Images/5.jpeg)
 
 ## Training Metrics
 During the training process, various metrics are tracked to assess the model's performance and convergence. These metrics include loss values, precision, recall, and mean average precision (mAP). We provide detailed training metrics and visualization tools to analyze the training progress and identify areas for improvement.
