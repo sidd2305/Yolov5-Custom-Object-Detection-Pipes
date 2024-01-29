@@ -6,17 +6,21 @@ YOLOv5 is a state-of-the-art deep learning model for object detection tasks. It 
 
 ## Output Screenshots, Training Metrics, and Confusion Matrix
 Output Screenshots
+
 We provide sample output screenshots showcasing the performance of our custom pipe detection model. These screenshots demonstrate the model's ability to accurately locate and classify pipes within images. You can find the screenshots in the output directory.
-![]("Output Images/4.jpeg")
+
+![](Output Images/4.jpeg)
+![](Output Images/5.jpeg)
 
 ## Training Metrics
 During the training process, various metrics are tracked to assess the model's performance and convergence. These metrics include loss values, precision, recall, and mean average precision (mAP). We provide detailed training metrics and visualization tools to analyze the training progress and identify areas for improvement.
+![](Output Images/training metrics.jpeg)
 
 ## Confusion Matrix
 The confusion matrix is a valuable tool for evaluating the model's classification performance. It provides insights into the model's ability to correctly classify pipes and distinguish them from other objects or background elements. We generate and analyze the confusion matrix to assess the model's accuracy and identify any patterns or misclassifications.
 
-## Getting Started
-To get started with our custom pipe detection project, please follow the instructions in the Documentation section. We provide detailed guidelines for setting up the environment, preparing the dataset, training the model, and evaluating its performance. Additionally, you can explore our codebase, documentation, and examples to gain a deeper understanding of the project's implementation and capabilities.
+![](Output Images/confusion_matrix.jpeg)
+
 
 ## Contributions and Feedback
 
